@@ -15,9 +15,8 @@
 <h3 align="center">backend · automation · devops</h3>
 
 <p align="center">
-  <a href="https://t.me/N01Ta"><img alt="telegram" src="https://img.shields.io/badge/telegram-%40N01Ta-22d3ee?style=for-the-badge&logo=telegram&logoColor=0d1117"></a>
-  <a href="mailto:shdanila0310@gmail.com"><img alt="email" src="https://img.shields.io/badge/email-shdanila0310%40gmail.com-f97316?style=for-the-badge&logo=gmail&logoColor=0d1117"></a>
-  <a href="https://github.com/N01Ta"><img alt="github" src="https://img.shields.io/badge/github-N01Ta-c9d1d9?style=for-the-badge&logo=github&logoColor=0d1117"></a>
+  <a href="https://t.me/gorkler"><img alt="telegram" src="https://img.shields.io/badge/telegram-%40gorkler-22d3ee?style=for-the-badge&logo=telegram&logoColor=0d1117"></a>
+  <a href="mailto:vukkong@gmail.com"><img alt="email" src="https://img.shields.io/badge/email-vukkong%40gmail.com-f97316?style=for-the-badge&logo=gmail&logoColor=0d1117"></a>
 </p>
 
 ---
