@@ -8,7 +8,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset=".github/snow-train.png">
-    <img alt="ASCII snow train" src=".github/snow-train.gif" width="720">
+    <img alt="ASCII snow train" src=".github/snow-train.gif" width="100%">
   </picture>
 </p>
 
@@ -69,8 +69,3 @@ open_to:
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N01Ta&layout=compact&theme=dark&bg_color=0D1117&title_color=F97316&text_color=C9D1D9&hide_border=true">
 </p>
 
----
-
-<p align="center">
-  <sub>ascii: <a href="https://ascii.rest/snow-train/">ascii.rest/snow-train</a> · banner: <a href="https://ascii.rest/">ascii.rest</a> · built with coffee, Rust, and kubectl</sub>
-</p>
