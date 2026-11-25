@@ -6,10 +6,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/train.dark.svg">
-    <img alt="ASCII train" src=".github/train.svg" width="420">
-  </picture>
+  <img alt="ASCII snow train" src=".github/snow-train.png" width="720">
 </p>
 
 <h3 align="center">backend · automation · devops</h3>
@@ -72,5 +69,5 @@ open_to:
 ---
 
 <p align="center">
-  <sub>ascii: <a href="https://ascii.rest/train/">ascii.rest/train</a> · banner: <a href="https://ascii.rest/">ascii.rest</a> · built with coffee, Rust, and kubectl</sub>
+  <sub>ascii: <a href="https://ascii.rest/snow-train/">ascii.rest/snow-train</a> · banner: <a href="https://ascii.rest/">ascii.rest</a> · built with coffee, Rust, and kubectl</sub>
 </p>
