@@ -12,8 +12,6 @@
   </picture>
 </p>
 
-<h3 align="center">backend · automation · devops</h3>
-
 <p align="center">
   <a href="https://t.me/gorkler"><img alt="telegram" src="https://img.shields.io/badge/telegram-%40gorkler-22d3ee?style=for-the-badge&logo=telegram&logoColor=0d1117"></a>
   <a href="mailto:vukkong@gmail.com"><img alt="email" src="https://img.shields.io/badge/email-vukkong%40gmail.com-f97316?style=for-the-badge&logo=gmail&logoColor=0d1117"></a>
