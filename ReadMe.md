@@ -6,7 +6,10 @@
 </p>
 
 <p align="center">
-  <img alt="ASCII snow train" src=".github/snow-train.png" width="720">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset=".github/snow-train.png">
+    <img alt="ASCII snow train" src=".github/snow-train.gif" width="720">
+  </picture>
 </p>
 
 <h3 align="center">backend · automation · devops</h3>
