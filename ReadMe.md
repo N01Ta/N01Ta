@@ -7,8 +7,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset=".github/snow-train.png">
-    <img alt="ASCII snow train" src=".github/snow-train.gif" width="100%">
+    <source media="(prefers-reduced-motion: reduce)" srcset=".github/snow-train-loop.png">
+    <img alt="ASCII snow train" src=".github/snow-train-loop.gif" width="100%">
   </picture>
 </p>
 
