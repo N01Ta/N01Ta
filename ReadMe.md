@@ -64,7 +64,6 @@ open_to:
 ### stats
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=N01Ta&show_icons=true&theme=dark&bg_color=0D1117&title_color=F97316&icon_color=22D3EE&text_color=C9D1D9&hide_border=true">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N01Ta&layout=compact&theme=dark&bg_color=0D1117&title_color=F97316&text_color=C9D1D9&hide_border=true">
+  <sub>Most work is in private repositories — the GitHub contribution graph below this README is the source of truth.</sub>
 </p>
 
