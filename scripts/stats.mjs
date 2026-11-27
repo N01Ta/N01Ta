@@ -51,6 +51,7 @@ const publicCount = Math.max(0, total - privateCount);
 const commits = c.totalCommitContributions;
 const prs = c.totalPullRequestContributions;
 const issues = c.totalIssueContributions;
+const privateShare = total ? Math.round((privateCount / total) * 100) : 0;
 
 const esc = (s) => String(s).replace(/[&<>"']/g, (ch) => ({
   "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
@@ -85,8 +86,8 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="860" height="240" vi
   <text x="432" y="166" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="700">${commits}</text>
   <text x="432" y="184" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12">commit contributions</text>
 
-  <text x="632" y="166" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="700">${prs} / ${issues}</text>
-  <text x="632" y="184" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12">PRs / issues</text>
+  <text x="632" y="166" fill="#22d3ee" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="700">${privateShare}%</text>
+  <text x="632" y="184" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12">private share</text>
 </svg>
 `;
 
