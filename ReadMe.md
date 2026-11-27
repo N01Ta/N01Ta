@@ -70,5 +70,6 @@
 ### статистика
 
 <p align="center">
-  <img alt="GitHub stats" src=".github/stats.svg" width="100%">
+  <img alt="GitHub stats" src=".github/stats-private.svg" width="100%">
 </p>
+

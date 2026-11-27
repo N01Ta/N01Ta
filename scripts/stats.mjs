@@ -91,5 +91,5 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="860" height="240" vi
 </svg>
 `;
 
-writeFileSync(".github/stats.svg", svg);
+writeFileSync(".github/stats-private.svg", svg);
 console.log(`stats: total=${total} private=${privateCount} public=${publicCount} commits=${commits} prs=${prs} issues=${issues}`);
