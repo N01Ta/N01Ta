@@ -27,8 +27,8 @@
 
 ### `кто я`
 
-Бэкенд-разработчик и инженер по автоматизации из Барнаула.  
-Пишу сервисы на **Rust** и **Python**, автоматизирую рутину через **n8n + LLM**, разворачиваю в **Kubernetes** с мониторингом.
+Бэкенд-разработчик и инженер по автоматизации.  
+Пишу сервисы на **Rust / Python**, автоматизация **n8n + LLM / bots**, деплой **docker / Kubernetes**.
 
 ```yaml
 сейчас:
@@ -62,10 +62,10 @@
 
 | проект | что это |
 | --- | --- |
-| **[TouristHub](https://github.com/N01Ta/TouristHub)** | Соцсеть для туристов. 4 сервиса на Rust/Axum, 74 эндпоинта, 97 тестов, PostgreSQL/Redis/S3, JWT/2FA, OpenAPI, Docker, Kubernetes, CI/CD, Prometheus/Grafana/Loki. Код — по запросу. |
-| **[WarThunderMOD](https://github.com/N01Ta/Subnautica2-WarThunderMOD)** | Мод для Subnautica 2: спавн и расстановка 3D-моделей в игре. Использовался для интеграций с War Thunder / GTA 5 RP. Только логика — модели не включены. |
-| **[RTK CRM](https://github.com/N01Ta/rtk_crm)** | Внутренняя B2B CRM для отдела продаж: FastAPI, PostgreSQL, JWT-авторизация, админ/пользовательские панели, заявки, тарифы, обучение, чат, документация. 70+ пользователей. Публичная санированная версия. |
-| **автоматизация** | n8n-процессы, LLM-агенты, парсеры, API-интеграции. 350k+ профилей; автоматизация рутины. Приватно. |
+| **[TouristHub](https://github.com/N01Ta/TouristHub)** | Соцсеть для туристов. 4 сервиса на Rust/Axum, 74 эндпоинта, 97 тестов, PostgreSQL/Redis/S3, JWT/2FA, OpenAPI, Docker, Kubernetes, CI/CD, Prometheus/Grafana/Loki. Код по запросу. |
+| **[WarThunderMOD](https://github.com/N01Ta/Subnautica2-WarThunderMOD)** | Мод для Subnautica 2: спавн и расстановка 3D-моделей в игре. Использовался для интеграций с War Thunder / GTA 5 RP. Только логика - модели не включены. |
+| **[RTK CRM](https://github.com/N01Ta/rtk_crm)** | Внутренняя B2B CRM для отдела продаж: FastAPI, PostgreSQL, JWT-авторизация, админ/пользовательские панели, заявки, тарифы, обучение, чат, документация. 70+ пользователей. |
+| **автоматизация** | n8n-процессы, LLM-агенты, парсеры, API-интеграции. 350k+ профилей; автоматизация рутины. |
 
 ### статистика
 
