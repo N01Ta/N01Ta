@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="240" viewBox="0 0 860 240" role="img" aria-labelledby="title">
+  <title id="title">N01Ta GitHub stats: 411 contributions in the last year, 384 private</title>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f97316"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="240" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0" y="0" width="860" height="4" rx="2" fill="url(#accent)"/>
+
+  <text x="32" y="44" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="700">N01Ta</text>
+  <text x="32" y="64" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12">github stats · last year</text>
+
+  <text x="32" y="146" fill="url(#accent)" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="64" font-weight="700">411</text>
+  <text x="34" y="172" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="14">contributions</text>
+  <text x="34" y="198" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12">includes private repositories</text>
+
+  <line x1="400" y1="28" x2="400" y2="212" stroke="#30363d"/>
+
+  <text x="432" y="88" fill="#f97316" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="28" font-weight="700">384</text>
+  <text x="432" y="106" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12">private</text>
+
+  <text x="632" y="88" fill="#22d3ee" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="28" font-weight="700">27</text>
+  <text x="632" y="106" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12">public</text>
+
+  <text x="432" y="166" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="700">24</text>
+  <text x="432" y="184" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12">commit contributions</text>
+
+  <text x="632" y="166" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="700">0 / 0</text>
+  <text x="632" y="184" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12">PRs / issues</text>
+</svg>

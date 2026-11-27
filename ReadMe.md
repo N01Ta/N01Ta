@@ -70,5 +70,5 @@
 ### статистика
 
 <p align="center">
-  <sub>Большая часть работы — в приватных репозиториях. График контрибуций ниже этого README — источник правды.</sub>
+  <img alt="GitHub stats" src=".github/stats.svg" width="100%">
 </p>

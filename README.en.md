@@ -70,5 +70,5 @@ open_to:
 ### stats
 
 <p align="center">
-  <sub>Most work is in private repositories — the GitHub contribution graph below this README is the source of truth.</sub>
+  <img alt="GitHub stats" src=".github/stats.svg" width="100%">
 </p>
