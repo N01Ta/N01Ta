@@ -27,8 +27,8 @@
 
 ### `whoami`
 
-Backend developer and automation engineer based in Barnaul, Russia.  
-I build services with **Rust** and **Python**, automate routine with **n8n + LLM**, and ship to **Kubernetes** with observability.
+Backend developer and automation engineer.  
+I build services with **Rust** and **Python**, automate with **n8n + LLM / bots**, deploy to **docker / Kubernetes**.
 
 ```yaml
 currently:
@@ -62,10 +62,10 @@ open_to:
 
 | project | what |
 | --- | --- |
-| **[TouristHub](https://github.com/N01Ta/TouristHub)** | Social network for tourists. 4 Rust/Axum services, 74 endpoints, 97 tests, PostgreSQL/Redis/S3, JWT/2FA, OpenAPI, Docker, Kubernetes, CI/CD, Prometheus/Grafana/Loki. Code on request. |
+| **[TouristHub](https://github.com/N01Ta/TouristHub)** | Social network for tourists. 4 Rust/Axum services, 74 endpoints, 97 tests, PostgreSQL/Redis/S3, JWT/2FA, OpenAPI, Docker, Kubernetes, CI/CD, Prometheus/Grafana/Loki. |
 | **[WarThunderMOD](https://github.com/N01Ta/Subnautica2-WarThunderMOD)** | Subnautica 2 mod to spawn and arrange 3D models in-game. Used for War Thunder / GTA 5 RP integrations. Logic only — models are not included. |
-| **[RTK CRM](https://github.com/N01Ta/rtk_crm)** | Internal B2B sales CRM: FastAPI, PostgreSQL, JWT auth, admin/user panels, requests, tariffs, training, chat, docs. 70+ users. Public, sanitized portfolio version. |
-| **automation** | n8n workflows, LLM agents, parsers, API integrations. 350k+ profiles scraped. Private. |
+| **[RTK CRM](https://github.com/N01Ta/rtk_crm)** | Internal B2B sales CRM: FastAPI, PostgreSQL, JWT auth, admin/user panels, requests, tariffs, training, chat, docs. 70+ users. |
+| **automation** | n8n workflows, LLM agents, parsers, API integrations. 350k+ profiles scraped. |
 
 ### stats
 
