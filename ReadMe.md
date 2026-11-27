@@ -65,6 +65,7 @@
 | **[TouristHub](https://github.com/N01Ta/TouristHub)** | Соцсеть для туристов. 4 сервиса на Rust/Axum, 74 эндпоинта, 97 тестов, PostgreSQL/Redis/S3, JWT/2FA, OpenAPI, Docker, Kubernetes, CI/CD, Prometheus/Grafana/Loki. Код по запросу. |
 | **[WarThunderMOD](https://github.com/N01Ta/Subnautica2-WarThunderMOD)** | Мод для Subnautica 2: спавн и расстановка 3D-моделей в игре. Использовался для интеграций с War Thunder / GTA 5 RP. Только логика - модели не включены. |
 | **[RTK CRM](https://github.com/N01Ta/rtk_crm)** | Внутренняя B2B CRM для отдела продаж: FastAPI, PostgreSQL, JWT-авторизация, админ/пользовательские панели, заявки, тарифы, обучение, чат, документация. 70+ пользователей. |
+| **[ML Enemy Detection](https://github.com/N01Ta/ml-enemy-detection)** | YOLO26n + ONNX + Rust/D3D11: детектор персонажей на 54k кадров, mAP@50 0.846. Обучен на Apex, пайплайн переносится на другие игры. Только CV, без аима. |
 | **автоматизация** | n8n-процессы, LLM-агенты, парсеры, API-интеграции. 350k+ профилей; автоматизация рутины. |
 
 ### статистика

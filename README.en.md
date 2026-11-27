@@ -65,6 +65,7 @@ open_to:
 | **[TouristHub](https://github.com/N01Ta/TouristHub)** | Social network for tourists. 4 Rust/Axum services, 74 endpoints, 97 tests, PostgreSQL/Redis/S3, JWT/2FA, OpenAPI, Docker, Kubernetes, CI/CD, Prometheus/Grafana/Loki. |
 | **[WarThunderMOD](https://github.com/N01Ta/Subnautica2-WarThunderMOD)** | Subnautica 2 mod to spawn and arrange 3D models in-game. Used for War Thunder / GTA 5 RP integrations. Logic only — models are not included. |
 | **[RTK CRM](https://github.com/N01Ta/rtk_crm)** | Internal B2B sales CRM: FastAPI, PostgreSQL, JWT auth, admin/user panels, requests, tariffs, training, chat, docs. 70+ users. |
+| **[ML Enemy Detection](https://github.com/N01Ta/ml-enemy-detection)** | YOLO26n + ONNX + Rust/D3D11 character detector: 54k frames, 0.846 mAP@50. Trained on Apex; the pipeline is game-agnostic. CV-only, no aim. |
 | **automation** | n8n workflows, LLM agents, parsers, API integrations. 350k+ profiles scraped. |
 
 ### stats
